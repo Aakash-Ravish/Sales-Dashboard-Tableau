@@ -8,7 +8,7 @@ profit trends, and category-level insights compared to the previous year.
 👉 [View Interactive Dashboard](https://public.tableau.com/views/Project1_17772190652080/SalesDashboard)
 
 ## 📸 Preview
-![Dashboard Preview](Sales%20Dashboard%20(1).png)
+![Dashboard Preview](sales-dashboard.png)
 
 ## 🛠 Tools Used
 - Tableau Public
@@ -18,8 +18,8 @@ profit trends, and category-level insights compared to the previous year.
 ## 📁 Files
 | File | Description |
 |------|-------------|
-| `_Project 1.twbx` | Tableau workbook file |
-| `Sales Dashboard (1).png` | Dashboard screenshot |
+| [`sales-dashboard.twbx`](sales-dashboard.twbx) | Tableau workbook file |
+| [`sales-dashboard.png`](sales-dashboard.png) | Dashboard screenshot |
 
 ## 💡 Key Insights
 
